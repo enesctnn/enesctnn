@@ -2,28 +2,13 @@
 
 Hello there! 👋 I'm Muhammet Enes Çetin, a Junior Front-End Web Developer passionate about creating engaging and dynamic user experiences. I primarily work with React.js, Next.js, and TypeScript, and I love exploring and incorporating new technologies into my projects. 
 
-### Technologies & Tools:
-- **Languages**: JavaScript/TypeScript
-- **Frontend**: React.js, Next.js
-- **Styling**: Tailwind CSS, Shadcn, UI Aceternity
-- **Animation**: Framer Motion
-- **State Management**: Redux & Redux Toolkit
-- **Form Validation**: Zod
-- **Routing**: React Router
-- **Data Fetching**: Tanstack Query
-- **Authentication**: Auth.js
-- **Version Control**: Git
-- **Other Tools**: npm, Yarn
-
 
 ### Languages and Tools:
 <p align="left" dir="auto" >
   <a href="https://git-scm.com/" rel="nofollow"> 
     <img src="https://camo.githubusercontent.com/fcafa5ebc1f5f789ae7d012a3ecd8fe7bda49516591caf7c37698f764165d880/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="git" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="max-width: 100%;"> 
   </a>
-  <a href="https://nodejs.org" rel="nofollow"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="max-width: 100%;"> 
-  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://www.reactjs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
@@ -60,24 +45,34 @@ Hello there! 👋 I'm Muhammet Enes Çetin, a Junior Front-End Web Developer pas
   <a href="https://redux.js.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
   </a>
+  <a href="https://www.mongodb.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="max-width: 100%;"> </a>
   <!-- Add more technologies here -->
 </p>
 
 ### Connect with Me:
-<p align="left" dir="auto">
+<p dir="auto" >
   <a href="https://twitter.com/enespcetin" rel="nofollow">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="enespcetin" height="30" width="40" style="max-width: 100%;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="enespcetin" height="30" width="40" style="max-width: 100%;">
   </a>
   <a href="https://www.linkedin.com/in/muhammet-enes-%C3%A7etin-35112b279/" rel="nofollow">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammet-enes-%C3%A7etin-35112b279" height="30" width="40" style="max-width: 100%;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammet-enes-%C3%A7etin-35112b279" height="30" width="40" style="max-width: 100%;">
   </a>
   <a href="https://github.com/enesctnn" rel="nofollow">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="enesctnn" height="30" width="40" style="max-width: 100%;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="enesctnn" height="30" width="40" style="max-width: 100%;">
   </a>
   <a href="mailto:enespcetin@gmail.com" rel="nofollow">
-    <img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r5.png" alt="Gmail" style="max-width: 100%;">
+    <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r5.png" alt="Gmail" style="max-width: 100%;">
   </a>
 </p>
 
-### Let's Connect and Collaborate!
+
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=enesctnn&show_icons=true&locale=en&layout=compact" alt="enesctnn" /></p>
+
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=enesctnn&show_icons=true&locale=en" alt="enesctnn" /></p>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=enesctnn&" alt="enesctnn" /></p>
+
+---
+
+### Connect and Collaborate!
 I'm always excited to connect with fellow developers, share knowledge, and collaborate on interesting projects. Feel free to reach out to me through any of the above platforms. Happy coding! 🚀
