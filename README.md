@@ -40,7 +40,7 @@ Hello there! 👋 I'm Muhammet Enes Çetin, a Junior Front-End Web Developer pas
     <img src="https://avatars.githubusercontent.com/u/72518640?s=200&v=4" alt="react-query" width="40" height="40"/>
   </a>
   <a href="https://authjs.dev/" target="_blank" rel="noreferrer">
-    <img src="https://authjs.dev/img/logo/logo-sm.webp" alt="authjs" width="40" height="40"/>
+    <img src="https://avatars.githubusercontent.com/u/67470890?s=48&v=4" alt="authjs" width="40" height="40"/>
   </a>
   <a href="https://redux.js.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
