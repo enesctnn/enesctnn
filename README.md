@@ -72,7 +72,3 @@ Hello there! 👋 I'm Muhammet Enes Çetin, a Junior Front-End Web Developer pas
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=enesctnn&" alt="enesctnn" /></p>
 
----
-
-### Connect and Collaborate!
-I'm always excited to connect with fellow developers, share knowledge, and collaborate on interesting projects. Feel free to reach out to me through any of the above platforms. Happy coding! 🚀
