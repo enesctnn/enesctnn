@@ -43,10 +43,10 @@
 ###
 
 <div align="left">
-  <a href="eness_ctnn" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="discord logo"  />
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=eness_ctnn&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="discord logo"  />
   </a>
-  <a href="enespcetin@gmail.com" target="_blank">
+  <a href="mailto:enespcetin@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=contact&color=e8432f&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/muhammet-enes-%C3%A7etin-35112b279/" target="_blank">
