@@ -1,4 +1,4 @@
-<h1>Muhammet Enes Çetin - Mid-Level Frontend Developer</h1>
+<h1>Enes Çetin - Software Developer</h1>
 
 ###
 
