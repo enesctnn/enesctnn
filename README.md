@@ -59,11 +59,3 @@
   <img src="https://streak-stats.demolab.com?user=enesctnn&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5" height="150" alt="streak graph" />
   <img src="https://github-readme-stats.vercel.app/api?username=enesctnn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=react&locale=en&hide_border=false&custom_title=Stats" height="150" alt="stats graph" />
 </div>
-
-###
-
-### 📚 Currently Learning
-
-- React Native  
-- Testing Libraries (Jest, React Testing Library)  
-- CI/CD Workflows (GitHub Actions, Vercel Deployments)
