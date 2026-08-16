@@ -3,7 +3,7 @@
 ###
 
 <p align="left">
-  Currently working as a <strong>Mid-Level Frontend Developer</strong> at 
+  Currently working as a <strong>Software Dev</strong> at 
   <a href="https://github.com/teklifimgelsin" target="_blank"><strong>TeklifimGelsin</strong></a>. 
   I specialize in building performant and scalable web applications using React.js, Next.js, and TypeScript.
 </p>
